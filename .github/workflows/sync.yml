@@ -111,16 +111,30 @@ jobs:
           year = int(newest_date[:4])
           newest = rows[0]
 
+          per_year = {}
+          for r in rows:
+              per_year.setdefault(r['date_published'][:4], []).append(r)
+          years = sorted(per_year, reverse=True)
+          this_year = per_year.get(str(year), [])
+
           # One row per firm, ranked by the rate its standing code gives.
-          # Firms that state no rate are left out rather than printed with a
-          # dash: this table answers "how much is off", and a firm with no
-          # published rate has nothing to rank. Ties break on name so the order
-          # is settled without reference to the clock or to dict order.
           firms = {}
           for r in rows:
               firms.setdefault(r['prop_firm_slug'], r)
+          # The ranking covers this season only. An event happens once a year,
+          # so a deal from an earlier year is a different offer from a
+          # different campaign: printing a 2025 rate under a 2026 heading would
+          # claim a price at which nothing is on sale now. Older seasons stay
+          # in the history below, where the date beside each row says what it
+          # is. Firms that state no rate are left out rather than printed with
+          # a dash: this table answers "how much is off", and a firm with no
+          # published rate has nothing to rank. Ties break on name so the order
+          # is settled without reference to the clock or to dict order.
+          season = {}
+          for r in this_year:
+              season.setdefault(r['prop_firm_slug'], r)
           ranked = []
-          for r in firms.values():
+          for r in season.values():
               rate = pct(r.get('standing_discount'))
               if rate is None:
                   continue
@@ -148,28 +162,33 @@ jobs:
           else:
               biggest = ''
 
-          per_year = {}
-          for r in rows:
-              per_year.setdefault(r['date_published'][:4], []).append(r)
-          years = sorted(per_year, reverse=True)
-
           readme = f"""# {EVENT_NAME} Prop Firm Discount Codes ({year})
 
           """
 
           # The head paragraph answers the query in one sentence: how many deals,
-          # from how many firms, and what a reader gets for staying. The newest
-          # deal is held back until after the code table: a search visitor came
-          # for a code, so the codes come first and the dated offer second.
+          # from how many firms, and what a reader gets for staying. The season
+          # count is stated separately because the table below ranks the season,
+          # not the archive: an event happens once a year, so a reader looking
+          # for a code now cares what is on sale in {year}, and the earlier
+          # campaigns are searchable in the history further down.
+          # The newest deal is held back until after the code table: a search
+          # visitor came for a code, so the codes come first and the dated offer
+          # second.
           readme += (f"As of {newest_date}, {deals} {EVENT_NAME} deals from "
-                     f"{len(firms)} prop firms are tracked. Every firm below carries a "
+                     f"{len(firms)} prop firms are tracked, {len(this_year)} of them "
+                     f"published in the {year} season. Every firm below carries a "
                      f"verified discount code that works any time.\n\n")
 
           if biggest:
-              readme += (f"The biggest verified discount codes among these firms are "
-                         f"{biggest}.\n\n")
+              # Naming the event and the season in this sentence is what makes
+              # it match a "Halloween 2026 prop firm discount code" query rather
+              # than a generic "biggest discount code" one; it sits above the
+              # table for the same reason.
+              readme += (f"The biggest verified {EVENT_NAME} discount codes in the "
+                         f"{year} season are {biggest}.\n\n")
 
-              readme += f"""## Prop Firms with the Highest Discount Codes in {EVENT_NAME}
+              readme += f"""## Prop Firms with the Highest Discount Codes in {EVENT_NAME} {year}
 
           | # | Prop firm | Exclusive code | Discount | Offer ends | Firm page |
           |---|---|---|---|---|---|
@@ -182,10 +201,10 @@ jobs:
           readme += (f"The newest is **{newest['title']}** from {newest['prop_firm']} — "
                      f"{offer(newest['discount_value'])}.\n\n")
 
-          this_year = per_year.get(str(year), [])
           readme += f"""- Event: {EVENT_NAME}
           - Deals tracked: {deals} ({len(this_year)} in {year})
           - Firms: {len(firms)}
+          - Firms with a code in the {year} season: {len(season)}
           - Newest deal: {newest_date}
           """
           if meta.get('tagged'):
