@@ -153,6 +153,9 @@ jobs:
           season = {}
           for r in this_year:
               season.setdefault(r['prop_firm_slug'], r)
+
+          # The table ranks the standing codes, so its rate is the code's own
+          # and identical on every row of a firm — see the column notes below.
           ranked = []
           for r in season.values():
               rate = pct(r.get('standing_discount'))
@@ -166,18 +169,40 @@ jobs:
           top = ranked[:5]
           top_table = ranked[:10]
 
+          # The sentence is about the season, not about today, so a season that
+          # has closed has to state the rate it actually sold at: the last deal
+          # it ran. Printing today's code rate under a closed season's name
+          # advertises a price that season never offered — Christmas 2025 ran at
+          # 85% off while the same code reads 90% now. Only a global firm's deal
+          # redeems the firm's own standing code (the endpoint marks those rows
+          # with code/code_state), so only there can a rate and a code be named
+          # together without pairing a code with a discount it does not give; a
+          # non-global deal ran on a campaign code this dataset does not carry,
+          # and its standing code is a different, unrelated rate.
+          if season_open:
+              prose = top
+          else:
+              prose = []
+              for r in season.values():
+                  if 'code' not in r:
+                      continue
+                  rate = pct(r.get('discount_value'))
+                  if rate is None:
+                      continue
+                  prose.append((rate, r))
+              prose.sort(key=lambda t: (-t[0], t[1]['prop_firm']))
+              prose = prose[:5]
+
           def rate_text(rate):
               return f'{rate:g}%'
 
-          # The sentence and the table below carry the same five firms, in the
-          # same order, from the same list — they cannot disagree.
-          if len(top) >= 2:
+          if len(prose) >= 2:
               parts = [f"{rate_text(rate)} OFF with code {r['standing_code']} at {r['prop_firm']}"
-                       for rate, r in top[:-1]]
-              biggest = ', '.join(parts) + f", and {rate_text(top[-1][0])} OFF with code " \
-                                             f"{top[-1][1]['standing_code']} at {top[-1][1]['prop_firm']}"
-          elif top:
-              rate, r = top[0]
+                       for rate, r in prose[:-1]]
+              biggest = ', '.join(parts) + f", and {rate_text(prose[-1][0])} OFF with code " \
+                                            f"{prose[-1][1]['standing_code']} at {prose[-1][1]['prop_firm']}"
+          elif prose:
+              rate, r = prose[0]
               biggest = f"{rate_text(rate)} OFF with code {r['standing_code']} at {r['prop_firm']}"
           else:
               biggest = ''
