@@ -8,5 +8,5 @@ Every deal row carries that firm's discount code, which works any time.
 
 Event page: https://propfirmdiscount.com/tag/halloween/
 Event dataset: https://propfirmdiscount.com/api/prop-firm-events/
-Deal rows for this event: https://github.com/propfirmdiscounts/halloween-deals
+Deal rows for this event: https://github.com/propfirmdiscounts/halloween-prop-firm-deals
 All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes

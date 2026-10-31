@@ -2,10 +2,10 @@
 license: other
 pretty_name: Halloween Prop Firm Deals
 configs:
-- config_name: halloween-deals
+- config_name: halloween-prop-firm-deals
   data_files:
   - split: data
-    path: datasets/halloween-deals.json
+    path: datasets/halloween-prop-firm-deals.json
 tags:
   - prop-firm
   - prop-firm-deals
@@ -25,18 +25,18 @@ The biggest verified Halloween discount codes in the 2026 season are 90% OFF wit
 
 ## Prop Firms with the Highest Discount Codes in Halloween 2026
 
-| # | Prop firm | Exclusive code | Discount | Offer ends | Firm page |
-|---|---|---|---|---|---|
-| 1 | Phidias Propfirm | PFD | 90% | Lifetime | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| 2 | Funded Hero | PFD | 70% | Lifetime | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 3 | Funding Traders | PFD | 70% | Lifetime | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 4 | Doji Funding | PFD | 60% | Lifetime | https://propfirmdiscount.com/prop-firm/doji-funding/ |
-| 5 | Atlas Funded | PFD | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
-| 6 | QT Funded | PFD | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/qt-funded/ |
-| 7 | Direct Funded Trader | PFD | 40% | Lifetime | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
-| 8 | Goat Funded Trader | CSV | 35% | Lifetime | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
-| 9 | PipFarm | PFDC | 30% | Lifetime | https://propfirmdiscount.com/prop-firm/pipfarm/ |
-| 10 | AquaFunded | PFD | 25% | Lifetime | https://propfirmdiscount.com/prop-firm/aquafunded/ |
+| # | Prop firm | Exclusive code | Discount | Latest Halloween deal | Expires | Firm page |
+|---|---|---|---|---|---|---|
+| 1 | Phidias Propfirm | PFD | 90% | 90% off first-month challenge entry for Halloween | 2026-11-01 17:00 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 2 | Funded Hero | PFD | 70% | 70% Off $100K Villain Challenge for Halloween | 2026-10-31 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 3 | Funding Traders | PFD | 70% | Halloween 70% off every account entry fee | Limited time | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
+| 4 | Doji Funding | PFD | 60% | 60% Off All Challenges for Halloween | 2026-10-31 | https://propfirmdiscount.com/prop-firm/doji-funding/ |
+| 5 | Atlas Funded | PFD | 50% | Halloween cashback deal cuts 45% off evaluations | Limited time | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
+| 6 | QT Funded | PFD | 50% | 50% Off Halloween Entry With Second Account Free | 2026-11-01 00:00 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 7 | Direct Funded Trader | PFD | 40% | 50% off Fast Funding and Evaluation, 40% off Instant | Limited time | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
+| 8 | Goat Funded Trader | CSV | 35% | 50% Off Challenge Entry Costs This Halloween | Limited time | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
+| 9 | PipFarm | PFDC | 30% | Challenges At 60% Off Plus A Free Halloween Power-Up | 2026-11-03 | https://propfirmdiscount.com/prop-firm/pipfarm/ |
+| 10 | AquaFunded | PFD | 25% | 35% off all account sizes across CFD and Futures | Limited time | https://propfirmdiscount.com/prop-firm/aquafunded/ |
 
 The newest is **60% saving on ELITE 2.5K-25K for Halloween** from WSFunded — 60% off.
 
@@ -45,7 +45,7 @@ The newest is **60% saving on ELITE 2.5K-25K for Halloween** from WSFunded — 6
 - Firms: 35
 - Firms with a code in the 2026 season: 26
 - Newest deal: 2026-10-30
-- Deals tagged on the site: 165 (89 of them from firms with a verified code, listed below)
+- Deals tagged on the site: 166 (89 of them from firms with a verified code, listed below)
 - Event page: https://propfirmdiscount.com/tag/halloween/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Deal dataset: https://propfirmdiscount.com/api/prop-firm-events/
@@ -189,7 +189,7 @@ instead: https://github.com/propfirmdiscounts
 - Event page: https://propfirmdiscount.com/tag/halloween/
 - All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
-## Fields in `datasets/halloween-deals.json`
+## Fields in `datasets/halloween-prop-firm-deals.json`
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
