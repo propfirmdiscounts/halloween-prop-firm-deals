@@ -25,7 +25,7 @@ The biggest verified Halloween discount codes in the 2026 season are 90% OFF wit
 
 ## Prop Firms with the Highest Discount Codes in Halloween 2026
 
-| # | Prop firm | Exclusive code | Code discount | Latest Halloween deal | Deal discount | Expires | Firm page |
+| # | Prop firm | Exclusive code | Code discount (Current) | Latest Halloween deal | Deal discount | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
 | 1 | Phidias Propfirm | PFD | 90% | 90% off first-month challenge entry for Halloween | 90% off | 2026-11-01 17:00 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 2 | Funded Hero | PFD | 70% | 70% Off $100K Villain Challenge for Halloween | 70% off | 2026-10-31 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
@@ -210,7 +210,7 @@ links are appended after, in the order below.
 | `prop_firm` | Firm name. |
 | `prop_firm_slug` | Firm slug. |
 | `standing_code` | The firm's discount code. It works any time, has no end date, and is identical on every row of that firm because it belongs to the firm rather than to the dated deal on that row. |
-| `standing_discount` | The rate `standing_code` gives. It is not `discount_value` when this deal is a separate promotion. |
+| `standing_discount` | The rate `standing_code` gives today: the code's own rate, not the rate of the dated deal on the same row. It is the `Code discount (Current)` figure in the table above. A code keeps giving it after the deal beside it has expired. |
 | `activation_link` | Where to redeem `standing_code`. |
 | `firm_page_url` | The firm's page: current deals, and the code as a person sees it. |
 | `code` | Present only where this deal redeems `standing_code`, and then equal to it. Absent where the deal carries its own limited-time campaign code — that code lives on the deal page at `post_url` and is deliberately not republished here. |
