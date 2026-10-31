@@ -19,7 +19,7 @@ tags:
 
 # Halloween Prop Firm Discount Codes (2026)
 
-As of 2026-10-30, 89 Halloween deals from 35 prop firms are tracked. The newest is **60% saving on ELITE 2.5K-25K for Halloween** from WSFunded — 60% off. Every firm below carries a verified discount code that works any time.
+As of 2026-10-30, 89 Halloween deals from 35 prop firms are tracked. Every firm below carries a verified discount code that works any time.
 
 The biggest verified discount codes among these firms are 90% OFF with code PFD at Phidias Propfirm, 90% OFF with code PFD at Upcomers, 70% OFF with code PFD at Funded Hero, 70% OFF with code PFD at Funding Traders, and 60% OFF with code PFD at Doji Funding.
 
@@ -32,6 +32,13 @@ The biggest verified discount codes among these firms are 90% OFF with code PFD 
 | 3 | Funded Hero | PFD | 70% | Lifetime | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 4 | Funding Traders | PFD | 70% | Lifetime | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | 5 | Doji Funding | PFD | 60% | Lifetime | https://propfirmdiscount.com/prop-firm/doji-funding/ |
+| 6 | Atlas Funded | PFD | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
+| 7 | Earn2Trade | PFD | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/earn2trade/ |
+| 8 | QT Funded | PFD | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 9 | Direct Funded Trader | PFD | 40% | Lifetime | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
+| 10 | Blue Guardian Futures | PFD | 35% | Lifetime | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
+
+The newest is **60% saving on ELITE 2.5K-25K for Halloween** from WSFunded — 60% off.
 
 - Event: Halloween
 - Deals tracked: 89 (45 in 2026)
