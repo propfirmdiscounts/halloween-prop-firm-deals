@@ -126,7 +126,11 @@ jobs:
                   continue
               ranked.append((rate, r))
           ranked.sort(key=lambda t: (-t[0], t[1]['prop_firm']))
+          # The prose names five because that is as many as a sentence can carry
+          # without turning into a list; the table prints ten because a table has
+          # no such limit and each row is another code-bearing firm on the page.
           top = ranked[:5]
+          top_table = ranked[:10]
 
           def rate_text(rate):
               return f'{rate:g}%'
@@ -153,13 +157,12 @@ jobs:
 
           """
 
-          # The head paragraph answers the query in one sentence: how many
-          # deals, from how many firms, and which one is newest. Everything
-          # after it is supporting detail.
+          # The head paragraph answers the query in one sentence: how many deals,
+          # from how many firms, and what a reader gets for staying. The newest
+          # deal is held back until after the code table: a search visitor came
+          # for a code, so the codes come first and the dated offer second.
           readme += (f"As of {newest_date}, {deals} {EVENT_NAME} deals from "
-                     f"{len(firms)} prop firms are tracked. The newest is "
-                     f"**{newest['title']}** from {newest['prop_firm']} — "
-                     f"{offer(newest['discount_value'])}. Every firm below carries a "
+                     f"{len(firms)} prop firms are tracked. Every firm below carries a "
                      f"verified discount code that works any time.\n\n")
 
           if biggest:
@@ -171,10 +174,13 @@ jobs:
           | # | Prop firm | Exclusive code | Discount | Offer ends | Firm page |
           |---|---|---|---|---|---|
           """
-              for i, (rate, r) in enumerate(top, 1):
+              for i, (rate, r) in enumerate(top_table, 1):
                   readme += (f"| {i} | {r['prop_firm']} | {r['standing_code']} | "
                              f"{rate_text(rate)} | Lifetime | {r['firm_page_url']} |\n")
               readme += "\n"
+
+          readme += (f"The newest is **{newest['title']}** from {newest['prop_firm']} — "
+                     f"{offer(newest['discount_value'])}.\n\n")
 
           this_year = per_year.get(str(year), [])
           readme += f"""- Event: {EVENT_NAME}
