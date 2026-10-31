@@ -19,7 +19,7 @@ concurrency:
 env:
   EVENT_SLUG: "halloween"
   EVENT_NAME: "Halloween"
-  REPO_NAME: "halloween-deals"
+  REPO_NAME: "halloween-prop-firm-deals"
 
 jobs:
   sync:
@@ -105,17 +105,37 @@ jobs:
           deals = len(rows)
           dates = [r['date_published'] for r in rows]
           newest_date = max(dates)
-          # The year in the title comes from the data, never from the clock: a
-          # clock-derived year would rewrite every README on 1 January and
-          # commit an empty diff back to 11 repos.
-          year = int(newest_date[:4])
           newest = rows[0]
 
           per_year = {}
           for r in rows:
               per_year.setdefault(r['date_published'][:4], []).append(r)
           years = sorted(per_year, reverse=True)
-          this_year = per_year.get(str(year), [])
+
+          # "This year" is the date the endpoint stamped its snapshot with, not
+          # the clock: the stamp ships inside the payload, so two runs over the
+          # same dataset produce the same year, and the value moves at most once
+          # a year instead of on every run.
+          now_year = int(data['generated'][:4])
+
+          def is_season(part):
+              """A season is several firms running the same campaign. One firm
+              re-tagging an evergreen offer into the event is not one, and a
+              heading for it would advertise a campaign nobody has run."""
+              return len({r['prop_firm_slug'] for r in part}) >= 2
+
+          # The year the top table ranks. When this year's season has not begun,
+          # ranking it would print offers under a heading for an event that has
+          # not happened, so the table falls back to the last season that did
+          # run and the body says which one it is. A code is unaffected either
+          # way: the standing codes work any time, season or not.
+          season_open = is_season(per_year.get(str(now_year), []))
+          if season_open:
+              season_year = now_year
+          else:
+              ran = [int(y) for y in years if int(y) < now_year and is_season(per_year[y])]
+              season_year = max(ran) if ran else max(int(y) for y in years)
+          this_year = per_year.get(str(season_year), [])
 
           # One row per firm, ranked by the rate its standing code gives.
           firms = {}
@@ -162,49 +182,83 @@ jobs:
           else:
               biggest = ''
 
-          readme = f"""# {EVENT_NAME} Prop Firm Discount Codes ({year})
+          readme = f"""# {EVENT_NAME} Prop Firm Discount Codes ({now_year})
 
           """
 
           # The head paragraph answers the query in one sentence: how many deals,
           # from how many firms, and what a reader gets for staying. The season
-          # count is stated separately because the table below ranks the season,
+          # count is stated separately because the table below ranks one season,
           # not the archive: an event happens once a year, so a reader looking
-          # for a code now cares what is on sale in {year}, and the earlier
-          # campaigns are searchable in the history further down.
+          # for a code now cares what is on sale in a single season, and the
+          # earlier campaigns are searchable in the history further down.
           # The newest deal is held back until after the code table: a search
           # visitor came for a code, so the codes come first and the dated offer
           # second.
           readme += (f"As of {newest_date}, {deals} {EVENT_NAME} deals from "
                      f"{len(firms)} prop firms are tracked, {len(this_year)} of them "
-                     f"published in the {year} season. Every firm below carries a "
+                     f"published in the {season_year} season. Every firm below carries a "
                      f"verified discount code that works any time.\n\n")
+
+          if not season_open:
+              # The title names the season a reader is searching for, so the body
+              # has to say plainly that it has not begun and what it is showing
+              # instead. Without this the page reads as a {now_year} lineup built
+              # from a stray re-tagged deal. The window is quoted from the last
+              # season's own rows rather than predicted, so the page never guesses
+              # when this year's campaign starts — but a reader still gets a date
+              # to come back to, and the codes work meanwhile. The count of deals
+              # already dated {now_year} is stated too: a reader who sees a
+              # September-dated row above needs to know it is an early posting
+              # rather than the season opening.
+              first = min(r['date_published'] for r in this_year)
+              last = max(r['date_published'] for r in this_year)
+              early = len(per_year.get(str(now_year), []))
+              readme += (f"**The {EVENT_NAME} {now_year} season is coming soon.** "
+                         f"The last season that ran was {season_year}: "
+                         f"{plural(len(this_year), 'deal')} from "
+                         f"{plural(len(season), 'firm')}, published {first} to {last}. ")
+              if early:
+                  readme += (f"{plural(early, 'deal')} dated {now_year} "
+                             f"{'has' if early == 1 else 'have'} been posted so far, "
+                             f"and {'it is' if early == 1 else 'they are'} in the history below. ")
+              readme += (f"Discount codes are not seasonal — every one below works today — "
+                         f"and new {now_year} {EVENT_NAME} deals appear here as they are "
+                         f"published, so check back for the lineup.\n\n")
 
           if biggest:
               # Naming the event and the season in this sentence is what makes
               # it match a "Halloween 2026 prop firm discount code" query rather
               # than a generic "biggest discount code" one; it sits above the
-              # table for the same reason.
+              # table for the same reason. The season named is the one the table
+              # actually ranks, so heading and sentence cannot disagree.
               readme += (f"The biggest verified {EVENT_NAME} discount codes in the "
-                         f"{year} season are {biggest}.\n\n")
+                         f"{season_year} season are {biggest}.\n\n")
 
-              readme += f"""## Prop Firms with the Highest Discount Codes in {EVENT_NAME} {year}
+              readme += f"""## Prop Firms with the Highest Discount Codes in {EVENT_NAME} {season_year}
 
-          | # | Prop firm | Exclusive code | Discount | Offer ends | Firm page |
-          |---|---|---|---|---|---|
+          | # | Prop firm | Exclusive code | Discount | Latest {EVENT_NAME} deal | Expires | Firm page |
+          |---|---|---|---|---|---|---|
           """
               for i, (rate, r) in enumerate(top_table, 1):
+                  # The deal title and its expiry are what make the row checkable:
+                  # a rate with no offer behind it is a number a reader has to
+                  # take on trust, while a named deal and a date can be looked up
+                  # in the history below. The expiry is the deal's own, not a
+                  # standing-code lifetime.
+                  title = str(r['title']).replace('|', '\\|')
                   readme += (f"| {i} | {r['prop_firm']} | {r['standing_code']} | "
-                             f"{rate_text(rate)} | Lifetime | {r['firm_page_url']} |\n")
+                             f"{rate_text(rate)} | {title} | "
+                             f"{r.get('date_exp') or 'N/A'} | {r['firm_page_url']} |\n")
               readme += "\n"
 
           readme += (f"The newest is **{newest['title']}** from {newest['prop_firm']} — "
                      f"{offer(newest['discount_value'])}.\n\n")
 
           readme += f"""- Event: {EVENT_NAME}
-          - Deals tracked: {deals} ({len(this_year)} in {year})
+          - Deals tracked: {deals} ({len(this_year)} in {season_year})
           - Firms: {len(firms)}
-          - Firms with a code in the {year} season: {len(season)}
+          - Firms with a code in the {season_year} season: {len(season)}
           - Newest deal: {newest_date}
           """
           if meta.get('tagged'):
