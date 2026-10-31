@@ -1,29 +1,30 @@
 # Halloween Prop Firm Discount Codes (2026)
 
-As of 2026-10-30, 89 Halloween deals from 35 prop firms are tracked. Every firm below carries a verified discount code that works any time.
+As of 2026-10-30, 89 Halloween deals from 35 prop firms are tracked, 45 of them published in the 2026 season. Every firm below carries a verified discount code that works any time.
 
-The biggest verified discount codes among these firms are 90% OFF with code PFD at Phidias Propfirm, 90% OFF with code PFD at Upcomers, 70% OFF with code PFD at Funded Hero, 70% OFF with code PFD at Funding Traders, and 60% OFF with code PFD at Doji Funding.
+The biggest verified Halloween discount codes in the 2026 season are 90% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funded Hero, 70% OFF with code PFD at Funding Traders, 60% OFF with code PFD at Doji Funding, and 50% OFF with code PFD at Atlas Funded.
 
-## Prop Firms with the Highest Discount Codes in Halloween
+## Prop Firms with the Highest Discount Codes in Halloween 2026
 
 | # | Prop firm | Exclusive code | Discount | Offer ends | Firm page |
 |---|---|---|---|---|---|
 | 1 | Phidias Propfirm | PFD | 90% | Lifetime | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| 2 | Upcomers | PFD | 90% | Lifetime | https://propfirmdiscount.com/prop-firm/upcomers/ |
-| 3 | Funded Hero | PFD | 70% | Lifetime | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 4 | Funding Traders | PFD | 70% | Lifetime | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 5 | Doji Funding | PFD | 60% | Lifetime | https://propfirmdiscount.com/prop-firm/doji-funding/ |
-| 6 | Atlas Funded | PFD | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
-| 7 | Earn2Trade | PFD | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/earn2trade/ |
-| 8 | QT Funded | PFD | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/qt-funded/ |
-| 9 | Direct Funded Trader | PFD | 40% | Lifetime | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
-| 10 | Blue Guardian Futures | PFD | 35% | Lifetime | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
+| 2 | Funded Hero | PFD | 70% | Lifetime | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 3 | Funding Traders | PFD | 70% | Lifetime | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
+| 4 | Doji Funding | PFD | 60% | Lifetime | https://propfirmdiscount.com/prop-firm/doji-funding/ |
+| 5 | Atlas Funded | PFD | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
+| 6 | QT Funded | PFD | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 7 | Direct Funded Trader | PFD | 40% | Lifetime | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
+| 8 | Goat Funded Trader | CSV | 35% | Lifetime | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
+| 9 | PipFarm | PFDC | 30% | Lifetime | https://propfirmdiscount.com/prop-firm/pipfarm/ |
+| 10 | AquaFunded | PFD | 25% | Lifetime | https://propfirmdiscount.com/prop-firm/aquafunded/ |
 
 The newest is **60% saving on ELITE 2.5K-25K for Halloween** from WSFunded — 60% off.
 
 - Event: Halloween
 - Deals tracked: 89 (45 in 2026)
 - Firms: 35
+- Firms with a code in the 2026 season: 26
 - Newest deal: 2026-10-30
 - Deals tagged on the site: 165 (89 of them from firms with a verified code, listed below)
 - Event page: https://propfirmdiscount.com/tag/halloween/
