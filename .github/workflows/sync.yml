@@ -235,10 +235,19 @@ jobs:
               readme += (f"The biggest verified {EVENT_NAME} discount codes in the "
                          f"{season_year} season are {biggest}.\n\n")
 
+              # Two rates, two columns. "Code discount" is what the standing
+              # code gives and it is the same number on every row of that firm,
+              # because it belongs to the code. "Deal discount" is what this
+              # particular campaign stated, and it is the deal title's own
+              # figure. They are unrelated: a code can give 30% while the deal
+              # beside it advertised 60%. Printing one under the other's
+              # heading — or ranking by the code and showing only the deal —
+              # states a rate at which nothing is actually on sale, which is
+              # the one thing this table must never do.
               readme += f"""## Prop Firms with the Highest Discount Codes in {EVENT_NAME} {season_year}
 
-          | # | Prop firm | Exclusive code | Discount | Latest {EVENT_NAME} deal | Expires | Firm page |
-          |---|---|---|---|---|---|---|
+          | # | Prop firm | Exclusive code | Code discount | Latest {EVENT_NAME} deal | Deal discount | Expires | Firm page |
+          |---|---|---|---|---|---|---|---|
           """
               for i, (rate, r) in enumerate(top_table, 1):
                   # The deal title and its expiry are what make the row checkable:
@@ -249,6 +258,7 @@ jobs:
                   title = str(r['title']).replace('|', '\\|')
                   readme += (f"| {i} | {r['prop_firm']} | {r['standing_code']} | "
                              f"{rate_text(rate)} | {title} | "
+                             f"{offer(r.get('discount_value'))} | "
                              f"{r.get('date_exp') or 'N/A'} | {r['firm_page_url']} |\n")
               readme += "\n"
 
