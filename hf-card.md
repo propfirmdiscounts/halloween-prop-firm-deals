@@ -27,7 +27,7 @@ The biggest verified Halloween discount codes in the 2026 season are 90% OFF wit
 
 | # | Prop firm | Exclusive code | Code discount (Current) | Latest Halloween deal | Deal discount | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | Phidias Propfirm | PFD | 90% | 90% off first-month challenge entry for Halloween | 90% off | 2026-11-01 17:00 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 1 | Phidias Propfirm | PFD | 90% | 90% off first-month challenge entry for Halloween | 90% off | 2026-11-01 17:00 (ended) | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 2 | Funding Traders | PFD | 70% | Halloween 70% off every account entry fee | 70% off | Limited time | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | 3 | Funded Hero | PFD | 62% | 70% Off $100K Villain Challenge for Halloween | 70% off | 2026-10-31 (ended) | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 4 | QT Funded | PFD | 60% | 50% Off Halloween Entry With Second Account Free | 50% off | 2026-11-01 00:00 (ended) | https://propfirmdiscount.com/prop-firm/qt-funded/ |
@@ -96,7 +96,7 @@ Total deals tracked: **85**
 | 2026-10-26 | Funded Elite | Halloween cut of 40% on five challenge types | 40% off | 2026-10-31 23:59 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-halloween-40-off-five-challenge-models/) |
 | 2026-10-26 | QT Funded | 50% Off Halloween Entry With Second Account Free | 50% off | 2026-11-01 00:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-free-account/) |
 | 2026-10-26 | QT Funded | 60% Off Halloween Challenge Entry With Payout Boost | 60% off | 2026-11-01 00:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-60-off-payout-boost/) |
-| 2026-10-25 | Phidias Propfirm | 90% off first-month challenge entry for Halloween | 90% off | 2026-11-01 17:00 | Halloween | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/) |
+| 2026-10-25 | Phidias Propfirm | 90% off first-month challenge entry for Halloween | 90% off | 2026-11-01 17:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/) |
 | 2026-10-25 | AquaFunded | 35% off all account sizes across CFD and Futures | 35% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/) |
 | 2026-10-24 | HyroTrader | Halloween cut of 15% on every challenge fee | 15% off | 2026-10-31 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/) |
 | 2026-10-22 | Funding Your Trades | 45% Off Halloween Challenges With BOGO Instantly | 45% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-halloween-bogo/) |
