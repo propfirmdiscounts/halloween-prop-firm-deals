@@ -437,6 +437,10 @@ jobs:
           # nothing but promotional pages reads as repo stuffing under the Hub
           # content policy. Reorder fields to put code/code_state after
           # discount_value for better readability in event context.
+          #
+          # Dataset Viewer infers schema from first row or early rows, so sort
+          # to put a global-firm row (one with code/code_state) first so the
+          # viewer renders columns in the intended order.
           field_order = [
               'deal_id', 'prop_firm', 'prop_firm_slug', 'title', 'event',
               'offer_type', 'scope', 'discount_value', 'code', 'code_state',
@@ -451,6 +455,9 @@ jobs:
                   if k not in ordered:
                       ordered[k] = r[k]
               reordered.append(ordered)
+
+          # Sort to put rows with code/code_state first (for Dataset Viewer schema)
+          reordered.sort(key=lambda r: (0 if 'code' in r else 1, r.get('deal_id', 0)))
 
           os.makedirs('datasets', exist_ok=True)
           with open(f'datasets/{REPO_NAME}.json', 'w', encoding='utf-8') as f:
