@@ -435,29 +435,25 @@ jobs:
 
           # The dataset is a real data file, not markdown: a mirror that holds
           # nothing but promotional pages reads as repo stuffing under the Hub
-          # content policy. Reorder fields to put code/code_state after
-          # discount_value for better readability in event context.
-          #
-          # Dataset Viewer infers schema from first row or early rows, so sort
-          # to put a global-firm row (one with code/code_state) first so the
-          # viewer renders columns in the intended order.
+          # content policy. Remove code/code_state fields from output - they are
+          # internal markers not needed in the public dataset.
           field_order = [
               'deal_id', 'prop_firm', 'prop_firm_slug', 'title', 'event',
-              'offer_type', 'scope', 'discount_value', 'code', 'code_state',
+              'offer_type', 'scope', 'discount_value',
               'standing_code', 'standing_discount', 'date_published', 'date_exp',
               'post_url', 'firm_page_url'
           ]
           reordered = []
           for r in rows:
               ordered = {k: r[k] for k in field_order if k in r}
-              # Append any extra fields not in field_order
+              # Append any extra fields not in field_order (except code/code_state)
               for k in r:
-                  if k not in ordered:
+                  if k not in ordered and k not in ('code', 'code_state'):
                       ordered[k] = r[k]
               reordered.append(ordered)
 
-          # Sort to put rows with code/code_state first (for Dataset Viewer schema)
-          reordered.sort(key=lambda r: (0 if 'code' in r else 1, r.get('deal_id', 0)))
+          # Sort by date and deal_id for consistent order
+          reordered.sort(key=lambda r: (r['date_published'], r.get('deal_id', 0)), reverse=True)
 
           os.makedirs('datasets', exist_ok=True)
           with open(f'datasets/{REPO_NAME}.json', 'w', encoding='utf-8') as f:
