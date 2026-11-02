@@ -3,7 +3,7 @@
 This dataset tracks every Halloween deal published on PropFirmDiscount.com by a
 prop firm carrying a verified discount code.
 
-Deals tracked: 85 across 33 firms. Newest deal: 2026-10-31.
+Deals tracked: 88 across 33 firms. Newest deal: 2026-11-02.
 Every deal row carries that firm's discount code, which works any time.
 
 Event page: https://propfirmdiscount.com/tag/halloween/
