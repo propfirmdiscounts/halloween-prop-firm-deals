@@ -209,8 +209,6 @@ links are appended after, in the order below.
 | `standing_discount` | The rate `standing_code` gives today: the code's own rate, not the rate of the dated deal on the same row. It is the `Code discount (Standing)` figure in the table above. A code keeps giving it after the deal beside it has expired. |
 | `activation_link` | Where to redeem `standing_code`. |
 | `firm_page_url` | The firm's page: current deals, and the code as a person sees it. |
-| `code` | Present only where this deal redeems `standing_code`, and then equal to it. Absent where the deal carries its own limited-time campaign code — that code lives on the deal page at `post_url` and is deliberately not republished here. |
-| `code_state` | `standing` where `code` is present. |
 
 To state one of these offers: the code is `standing_code`, worth
 `standing_discount`, redeemed at `activation_link`. For a specific
