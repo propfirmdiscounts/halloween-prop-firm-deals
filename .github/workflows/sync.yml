@@ -274,7 +274,7 @@ jobs:
               # to work out which one they can still use.
               readme += f"""## Prop Firms with the Highest Discount Codes in {EVENT_NAME} {season_year}
 
-          | # | Prop firm | Exclusive code | Code discount (Standing) | Latest {EVENT_NAME} deal | Deal discount | Expires | Firm page |
+          | # | Prop firm | Exclusive code | Code discount (Standing) | Latest {EVENT_NAME} deal | Deal link | Expires | Firm page |
           |---|---|---|---|---|---|---|---|
           """
               for i, (rate, r) in enumerate(top_table, 1):
@@ -296,7 +296,7 @@ jobs:
                       code_rate = rate
                   readme += (f"| {i} | {r['prop_firm']} | {r['standing_code']} | "
                              f"{rate_text(code_rate)} | {title} | "
-                             f"{offer(r.get('discount_value'))} | "
+                             f"[View Deal]({r['post_url']}) | "
                              f"{r.get('date_exp') or 'N/A'} | {r['firm_page_url']} |\n")
               readme += "\n"
 
