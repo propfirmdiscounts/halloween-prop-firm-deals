@@ -1,6 +1,6 @@
 # Halloween Prop Firm Discount Codes (2026)
 
-As of 2026-11-02, 88 Halloween deals from 33 prop firms are tracked, 46 of them published in the 2026 season. Every firm below carries a verified discount code that works any time.
+As of 2026-11-02, 88 Halloween deals from 33 prop firms are tracked, 46 of them published in the 2026 season. Every firm carries a verified discount code that works any time.
 
 The biggest verified Halloween discount codes in the 2026 season are 90% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funded Hero, 70% OFF with code PFD at Funding Traders, 60% OFF with code PFD at Doji Funding, and 50% OFF with code PFD at QT Funded.
 
@@ -9,15 +9,15 @@ The biggest verified Halloween discount codes in the 2026 season are 90% OFF wit
 | # | Prop firm | Exclusive code | Code discount (Standing) | Latest Halloween deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
 | 1 | Phidias Propfirm | PFD | 90% | 90% off first-month challenge entry for Halloween | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/) | 2026-11-01 17:00 (ended) | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| 2 | Funded Hero | PFD | 70% | 70% Off $100K Villain Challenge for Halloween | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/) | 2026-10-31 (ended) | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 3 | Doji Funding | PFD | 60% | 60% Off All Challenges for Halloween | [View Deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-halloween-60-off-every-challenge/) | 2026-10-31 (ended) | https://propfirmdiscount.com/prop-firm/doji-funding/ |
-| 4 | Direct Funded Trader | PFD | 50% | 50% off Fast Funding and Evaluation, 40% off Instant | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/) | Limited time | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
-| 5 | Funding Traders | PFD | 70% | Halloween 70% off every account entry fee | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-halloween-70-off-all-accounts/) | Limited time | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 6 | QT Funded | PFD | 50% | 50% Off Halloween Entry With Second Account Free | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-free-account/) | 2026-11-01 00:00 (ended) | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 2 | Doji Funding | PFD | 60% | 60% Off All Challenges for Halloween | [View Deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-halloween-60-off-every-challenge/) | 2026-10-31 (ended) | https://propfirmdiscount.com/prop-firm/doji-funding/ |
+| 3 | Funded Hero | PFD | 70% | 70% Off $100K Villain Challenge for Halloween | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/) | 2026-10-31 (ended) | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 4 | QT Funded | PFD | 50% | 50% Off Halloween Entry With Second Account Free | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-free-account/) | 2026-11-01 00:00 (ended) | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 5 | Direct Funded Trader | PFD | 50% | 50% off Fast Funding and Evaluation, 40% off Instant | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/) | Limited time | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
+| 6 | Funding Traders | PFD | 70% | Halloween 70% off every account entry fee | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-halloween-70-off-all-accounts/) | Limited time | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | 7 | Atlas Funded | PFD | 40% | Halloween cashback deal cuts 45% off evaluations | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/) | Limited time | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
-| 8 | AquaFunded | PFD | 35% | 35% off all account sizes across CFD and Futures | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/) | Limited time | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| 9 | Goat Funded Trader | CSV | 35% | 50% Off Challenge Entry Costs This Halloween | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-halloween-50-off-challenge-accounts/) | Limited time | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
-| 10 | PipFarm | PFDC | 30% | Challenges At 60% Off Plus A Free Halloween Power-Up | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/) | 2026-11-03 (ended) | https://propfirmdiscount.com/prop-firm/pipfarm/ |
+| 8 | Phoenix Trader Funding | PFD | 40% | 40% Off Daily Seed Challenge Pricing | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/) | 2026-10-31 (ended) | https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/ |
+| 9 | AquaFunded | PFD | 35% | 35% off all account sizes across CFD and Futures | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/) | Limited time | https://propfirmdiscount.com/prop-firm/aquafunded/ |
+| 10 | Goat Funded Trader | CSV | 35% | 50% Off Challenge Entry Costs This Halloween | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-halloween-50-off-challenge-accounts/) | Limited time | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
 
 The newest is **45% off Instant Funding programs** from Funded Trading Plus — 45% off.
 
