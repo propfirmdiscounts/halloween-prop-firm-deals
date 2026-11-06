@@ -81,7 +81,7 @@
   },
   {
     "deal_id": 13067,
-    "prop_firm": "Funding Traders",
+    "prop_firm": "FundingTraders",
     "prop_firm_slug": "fundingtraders",
     "title": "Halloween 70% off every account entry fee",
     "event": "Halloween",
@@ -653,7 +653,7 @@
     "standing_code": "PFD",
     "standing_discount": "35%",
     "date_published": "2026-10-21",
-    "date_exp": "2026-11-05",
+    "date_exp": "2026-11-05 (ended)",
     "post_url": "https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/aquafunded/",
     "last_verified": "2026-10-21",
@@ -701,7 +701,7 @@
   },
   {
     "deal_id": 12936,
-    "prop_firm": "Funding Traders",
+    "prop_firm": "FundingTraders",
     "prop_firm_slug": "fundingtraders",
     "title": "Half Price On $50K+ Accounts With All Add-Ons And $50K 1-Step At $82",
     "event": "Halloween",
@@ -721,7 +721,7 @@
   },
   {
     "deal_id": 12935,
-    "prop_firm": "Funding Traders",
+    "prop_firm": "FundingTraders",
     "prop_firm_slug": "fundingtraders",
     "title": "Half Price On Every Account With A Free Match And $5K 1-Step At $15",
     "event": "Halloween",
@@ -881,7 +881,7 @@
   },
   {
     "deal_id": 12866,
-    "prop_firm": "Funding Traders",
+    "prop_firm": "FundingTraders",
     "prop_firm_slug": "fundingtraders",
     "title": "Multi-Account Package with All Add-ons Included",
     "event": "Halloween",
@@ -901,7 +901,7 @@
   },
   {
     "deal_id": 12865,
-    "prop_firm": "Funding Traders",
+    "prop_firm": "FundingTraders",
     "prop_firm_slug": "fundingtraders",
     "title": "50% Reduction Plus Free Matching Account",
     "event": "Halloween",
@@ -1641,7 +1641,7 @@
   },
   {
     "deal_id": 9260,
-    "prop_firm": "Funding Traders",
+    "prop_firm": "FundingTraders",
     "prop_firm_slug": "fundingtraders",
     "title": "50% OFF Instant-Funded Accounts (Halloween Promo, Ends Nov 1)",
     "event": "Halloween",
@@ -1661,7 +1661,7 @@
   },
   {
     "deal_id": 9258,
-    "prop_firm": "Funding Traders",
+    "prop_firm": "FundingTraders",
     "prop_firm_slug": "fundingtraders",
     "title": "40% OFF All Plans (Halloween Promo, Ends Nov 1)",
     "event": "Halloween",
