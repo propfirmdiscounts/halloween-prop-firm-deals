@@ -98,9 +98,9 @@ Total deals tracked: **88**
 | 2026-10-15 | Phoenix Trader Funding | 30% Off Classic Starter Challenge Pricing | 30% off | 2026-10-31 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-starter/) |
 | 2026-10-14 | AquaFunded | 25% Off Challenge Pricing With 150% Delayed Refund | 25% off | 2026-10-23 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-150-refund/) |
 | 2026-10-13 | TX3 Funding | Haunted Highs Event: 25% Cost Reduction and 90% Split | 25% off | 2026-10-18 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-haunted-highs-25-off/) |
-| 2026-10-12 | Blue Guardian | 35% Off Challenge Pricing With 200% CFD Refund | 35% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/) |
-| 2026-10-12 | FundingTraders | Multi-Account Package with All Add-ons Included | 90% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-buy-1-get-3-bundle-halloween/) |
-| 2026-10-12 | FundingTraders | 50% Reduction Plus Free Matching Account | 50% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-bogo-halloween/) |
+| 2026-10-12 | Blue Guardian | 35% Off Challenge Pricing With 200% CFD Refund | 35% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/) |
+| 2026-10-12 | FundingTraders | Multi-Account Package with All Add-ons Included | 90% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-buy-1-get-3-bundle-halloween/) |
+| 2026-10-12 | FundingTraders | 50% Reduction Plus Free Matching Account | 50% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-bogo-halloween/) |
 
 ### 2025 (41 deals)
 
