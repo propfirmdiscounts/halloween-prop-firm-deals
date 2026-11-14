@@ -228,7 +228,9 @@ jobs:
           # The newest deal is held back until after the code table: a search
           # visitor came for a code, so the codes come first and the dated offer
           # second.
-          answer = (f"As of {newest_date}, {deals} {EVENT_NAME} deals from "
+          from datetime import datetime, timezone
+          now_month = datetime.now(timezone.utc).strftime('%Y-%m')
+          answer = (f"As of {now_month}, {deals} {EVENT_NAME} deals from "
                     f"{len(firms)} prop firms are tracked, {len(this_year)} of them "
                     f"published in the {season_year} season. Every firm carries a "
                     f"verified discount code that works any time.")
@@ -461,8 +463,9 @@ jobs:
           if meta.get('tag_url'):
               facts.append(f"- Event page: {meta['tag_url']}")
 
-          # Hugging Face dataset card mirrors the full GitHub README content
-          # with dataset card YAML frontmatter (tags, configs, dataset split).
+          # No code table on the HF card: the Hub side stays facts-only, the
+          # code table lives in the GitHub README (line ~277) where a reader
+          # can also follow the site link.
           front = ('---\n'
                    'license: other\n'
                    'pretty_name: ' + EVENT_NAME + ' Prop Firm Deals\n'
@@ -481,7 +484,20 @@ jobs:
                    '  - trading\n'
                    '  - ' + EVENT_SLUG + '\n'
                    '---\n\n')
+          # Add "The biggest verified..." sentence when there are codes to show
+          biggest_sentence = ''
+          if biggest:
+              biggest_sentence = (f"The biggest verified {EVENT_NAME} discount codes in the "
+                                f"{season_year} season are {biggest}.\n\n")
 
+          body = (f"# {EVENT_NAME} Prop Firm Deals\n\n"
+                  f"{answer}\n\n"
+                  + biggest_sentence
+                  + '\n'.join(facts) + "\n\n"
+                  + f"Deal history: https://github.com/propfirmdiscounts/{REPO_NAME}\n\n"
+                  f"Data: `datasets/{REPO_NAME}.json` — one row per deal, newest first.\n\n"
+                  "Data © PropFirmDiscount. Codes may be referenced with attribution "
+                  "and a link to https://propfirmdiscount.com.\n")
           # Written outside the checkout: the card belongs on the Hub, not in the
           # GitHub repo. Removing the earlier copy first keeps the two apart
           # even when RUNNER_TEMP and the workspace are the same directory.
@@ -489,7 +505,7 @@ jobs:
               os.remove('hf-card.md')
           tmp = os.environ.get('RUNNER_TEMP') or '/tmp'
           with open(os.path.join(tmp, 'hf-card.md'), 'w', encoding='utf-8') as f:
-              f.write(front + readme)
+              f.write(front + body)
 
           # The dataset is a real data file, not markdown: a mirror that holds
           # nothing but promotional pages reads as repo stuffing under the Hub
@@ -675,8 +691,8 @@ jobs:
               if os.path.exists(f):
                   ops.append(CommitOperationAdd(path_in_repo=f, path_or_fileobj=f))
           # The card comes from the README step, which writes it outside this
-          # checkout so the GitHub repo keeps the clean README and the Hub gets
-          # the full README mirrored with dataset YAML frontmatter.
+          # checkout so the GitHub repo keeps the full README and the Hub gets
+          # the short one.
           card = os.path.join(os.environ.get('RUNNER_TEMP') or '/tmp', 'hf-card.md')
           if os.path.exists(card):
               ops.append(CommitOperationAdd(
