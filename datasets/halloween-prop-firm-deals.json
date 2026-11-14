@@ -560,6 +560,26 @@
     "activation_link": "https://propfirmdiscount.com/go/hyrotrader"
   },
   {
+    "deal_id": 13015,
+    "prop_firm": "Bullwaves Prime",
+    "prop_firm_slug": "bullwaves",
+    "title": "35% Off All Prime Challenges for Halloween",
+    "event": "Halloween",
+    "offer_type": "coupon",
+    "scope": [
+      "Prime Challenges, All Challenges, Halloween, 50K 2-Step Giveaway"
+    ],
+    "discount_value": "35%",
+    "standing_code": "PFD",
+    "standing_discount": "10%",
+    "date_published": "2026-10-23",
+    "date_exp": "2026-10-31 (ended)",
+    "post_url": "https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-35-off-all-prime-challenges-halloween/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/bullwaves/",
+    "last_verified": "2026-10-23",
+    "activation_link": "https://propfirmdiscount.com/go/bullwaves"
+  },
+  {
     "deal_id": 13010,
     "prop_firm": "Funding Your Trades",
     "prop_firm_slug": "funding-your-trades",
@@ -1718,6 +1738,26 @@
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/blue-guardian/",
     "last_verified": "2025-10-14",
     "activation_link": "https://propfirmdiscount.com/go/blueguardian"
+  },
+  {
+    "deal_id": 9222,
+    "prop_firm": "Bullwaves Prime",
+    "prop_firm_slug": "bullwaves",
+    "title": "20% OFF Step 2 Challenges + Biggest Giveaway (Ends Oct 31)",
+    "event": "Halloween",
+    "offer_type": "coupon",
+    "scope": [
+      "Step 2 Challenges"
+    ],
+    "discount_value": "20%",
+    "standing_code": "PFD",
+    "standing_discount": "10%",
+    "date_published": "2025-10-14",
+    "date_exp": "Ended",
+    "post_url": "https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-20-off-step-2-challenges-biggest-giveaway-ends-oct-31/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/bullwaves/",
+    "last_verified": "2025-10-14",
+    "activation_link": "https://propfirmdiscount.com/go/bullwaves"
   },
   {
     "deal_id": 8933,

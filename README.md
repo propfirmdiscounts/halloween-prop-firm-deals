@@ -1,6 +1,6 @@
 # Halloween Prop Firm Discount Codes (2026)
 
-As of 2026-11-02, 88 Halloween deals from 33 prop firms are tracked, 46 of them published in the 2026 season. Every firm carries a verified discount code that works any time.
+As of 2026-11, 90 Halloween deals from 34 prop firms are tracked, 47 of them published in the 2026 season. Every firm carries a verified discount code that works any time.
 
 The biggest verified Halloween discount codes in the 2026 season are 90% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funded Hero, 70% OFF with code PFD at FundingTraders, 60% OFF with code PFD at Doji Funding, and 25% OFF with code PFD at Blue Guardian.
 
@@ -22,11 +22,11 @@ The biggest verified Halloween discount codes in the 2026 season are 90% OFF wit
 The newest is **45% off Instant Funding programs** from Funded Trading Plus — 45% off.
 
 - Event: Halloween
-- Deals tracked: 88 (46 in 2026)
-- Firms: 33
-- Firms with a code in the 2026 season: 25
+- Deals tracked: 90 (47 in 2026)
+- Firms: 34
+- Firms with a code in the 2026 season: 26
 - Newest deal: 2026-11-02
-- Deals tagged on the site: 170 (88 of them from firms with a verified code, listed below)
+- Deals tagged on the site: 170 (90 of them from firms with a verified code, listed below)
 - Event page: https://propfirmdiscount.com/tag/halloween/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Deal dataset: https://propfirmdiscount.com/api/prop-firm-events/
@@ -39,7 +39,7 @@ The newest is **45% off Instant Funding programs** from Funded Trading Plus — 
 
 **Do these firms have discount codes?**
 
-Yes. Every one of the 33 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 85% off with code PFD at Phidias Propfirm. The code is separate from the Halloween offer itself: the offer belongs to the campaign, the code works whatever the season.
+Yes. Every one of the 34 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 85% off with code PFD at Phidias Propfirm. The code is separate from the Halloween offer itself: the offer belongs to the campaign, the code works whatever the season.
 
 **How much is off?**
 
@@ -49,9 +49,9 @@ The newest deal is 45% off. Standing discount codes among these firms run 85% of
 
 ## Halloween deal history
 
-Total deals tracked: **88**
+Total deals tracked: **90**
 
-### 2026 (46 deals)
+### 2026 (47 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
@@ -83,6 +83,7 @@ Total deals tracked: **88**
 | 2026-10-25 | Phidias Propfirm | Phidias Propfirm: 90% off first-month challenge entry for Halloween with code PFD | 90% off | 2026-11-01 17:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/) |
 | 2026-10-25 | AquaFunded | AquaFunded: 35% off all account sizes across CFD and Futures | 35% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/) |
 | 2026-10-24 | HyroTrader | HyroTrader: Halloween cut of 15% on every challenge fee | 15% off | 2026-10-31 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/) |
+| 2026-10-23 | Bullwaves Prime | Bullwaves Prime: 35% Off All Prime Challenges for Halloween | 35% off | 2026-10-31 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-35-off-all-prime-challenges-halloween/) |
 | 2026-10-22 | Funding Your Trades | Funding Your Trades: 45% Off Halloween Challenges With BOGO Instantly | 45% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-halloween-bogo/) |
 | 2026-10-22 | FXIFY | FXIFY: 35% Off All Other Programs - Halloween | 35% off | 2026-11-02 00:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/) |
 | 2026-10-22 | FXIFY | FXIFY: 40% Off Instant Funding This Halloween | 40% off | 2026-11-02 00:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding-halloween/) |
@@ -102,7 +103,7 @@ Total deals tracked: **88**
 | 2026-10-12 | FundingTraders | FundingTraders: Multi-Account Package with All Add-ons Included with code PFD | 90% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-buy-1-get-3-bundle-halloween/) |
 | 2026-10-12 | FundingTraders | FundingTraders: 50% Reduction Plus Free Matching Account with code PFD | 50% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-bogo-halloween/) |
 
-### 2025 (41 deals)
+### 2025 (42 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
@@ -146,6 +147,7 @@ Total deals tracked: **88**
 | 2025-10-14 | FundingTraders | FundingTraders: 40% OFF All Plans (Halloween Promo, Ends Nov 1) with code PFD | 40% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-40-off-all-plans-halloween-promo-ends-nov-1/) |
 | 2025-10-14 | AquaFunded | AquaFunded: 40% OFF + 150% Refund (Limited Time) | 40% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aqua-funded-40-off-150-refund-limited-time/) |
 | 2025-10-14 | Blue Guardian | Blue Guardian: 40% OFF All Accounts (Excl. 2-Step; IFS 30% OFF) with code PFD | 40% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-40-off-all-accounts-excl-2-step-ifs-30-off/) |
+| 2025-10-14 | Bullwaves Prime | Bullwaves Prime: 20% OFF Step 2 Challenges + Biggest Giveaway (Ends Oct 31) | 20% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-20-off-step-2-challenges-biggest-giveaway-ends-oct-31/) |
 | 2025-10-08 | Instant Funding | Instant Funding: 20% Off, 90% Profit Split & Zero Minimum Days (One-Phase) | 20% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-20-off-90-profit-split-zero-minimum-days-one-phase/) |
 
 ### 2024 (1 deal)
