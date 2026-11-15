@@ -8,16 +8,16 @@ The biggest verified Halloween discount codes in the 2026 season are 90% OFF wit
 
 | # | Prop firm | Exclusive code | Code discount (Standing) | Latest Halloween deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | Phidias Propfirm | PFD | 90% | 90% off first-month challenge entry for Halloween with code PFD | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/) | 2026-11-01 17:00 (ended) | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| 2 | FundingTraders | PFD | 70% | Halloween 70% off every account entry fee with code PFD | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-halloween-70-off-all-accounts/) | Limited time | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 3 | Funded Hero | PFD | 70% | 70% Off $100K Villain Challenge for Halloween with code PFD | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/) | 2026-10-31 (ended) | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 4 | Atlas Funded | PFD | 50% | Halloween cashback deal cuts 45% off evaluations | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/) | Limited time | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
-| 5 | Direct Funded Trader | PFD | 50% | 50% off Fast Funding and Evaluation, 40% off Instant | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/) | Limited time | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
-| 6 | QT Funded | PFD | 50% | 50% Off Halloween Entry With Second Account Free | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-free-account/) | 2026-11-01 00:00 (ended) | https://propfirmdiscount.com/prop-firm/qt-funded/ |
-| 7 | TX3 Funding | PFDC | 50% | 35% off challenge accounts for Halloween week | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/) | 2026-10-31 23:59 (ended) | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
-| 8 | Doji Funding | PFD | 60% | 60% Off All Challenges for Halloween with code PFD | [View Deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-halloween-60-off-every-challenge/) | 2026-10-31 (ended) | https://propfirmdiscount.com/prop-firm/doji-funding/ |
-| 9 | Phoenix Trader Funding | PFD | 40% | 40% Off Daily Seed Challenge Pricing | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/) | 2026-10-31 (ended) | https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/ |
-| 10 | AquaFunded | PFD | 35% | 35% off all account sizes across CFD and Futures | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/) | Limited time | https://propfirmdiscount.com/prop-firm/aquafunded/ |
+| 1 | Phidias Propfirm | PFD | 90% | 90% off first-month challenge entry for Halloween with code PFD | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/) | 2026-11-01 17:00 (ended) | [https://propfirmdiscount.com/prop-firm/phidias-propfirm/](https://propfirmdiscount.com/prop-firm/phidias-propfirm/) |
+| 2 | FundingTraders | PFD | 70% | Halloween 70% off every account entry fee with code PFD | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-halloween-70-off-all-accounts/) | Limited time | [https://propfirmdiscount.com/prop-firm/fundingtraders/](https://propfirmdiscount.com/prop-firm/fundingtraders/) |
+| 3 | Funded Hero | PFD | 70% | 70% Off $100K Villain Challenge for Halloween with code PFD | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/) | 2026-10-31 (ended) | [https://propfirmdiscount.com/prop-firm/funded-hero/](https://propfirmdiscount.com/prop-firm/funded-hero/) |
+| 4 | Atlas Funded | PFD | 50% | Halloween cashback deal cuts 45% off evaluations | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/) | Limited time | [https://propfirmdiscount.com/prop-firm/atlas-funded/](https://propfirmdiscount.com/prop-firm/atlas-funded/) |
+| 5 | Direct Funded Trader | PFD | 50% | 50% off Fast Funding and Evaluation, 40% off Instant | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/) | Limited time | [https://propfirmdiscount.com/prop-firm/direct-funded-trader/](https://propfirmdiscount.com/prop-firm/direct-funded-trader/) |
+| 6 | QT Funded | PFD | 50% | 50% Off Halloween Entry With Second Account Free | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-free-account/) | 2026-11-01 00:00 (ended) | [https://propfirmdiscount.com/prop-firm/qt-funded/](https://propfirmdiscount.com/prop-firm/qt-funded/) |
+| 7 | TX3 Funding | PFDC | 50% | 35% off challenge accounts for Halloween week | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/) | 2026-10-31 23:59 (ended) | [https://propfirmdiscount.com/prop-firm/tx3-funding/](https://propfirmdiscount.com/prop-firm/tx3-funding/) |
+| 8 | Doji Funding | PFD | 60% | 60% Off All Challenges for Halloween with code PFD | [View Deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-halloween-60-off-every-challenge/) | 2026-10-31 (ended) | [https://propfirmdiscount.com/prop-firm/doji-funding/](https://propfirmdiscount.com/prop-firm/doji-funding/) |
+| 9 | Phoenix Trader Funding | PFD | 40% | 40% Off Daily Seed Challenge Pricing | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/) | 2026-10-31 (ended) | [https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/](https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/) |
+| 10 | AquaFunded | PFD | 35% | 35% off all account sizes across CFD and Futures | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/) | Limited time | [https://propfirmdiscount.com/prop-firm/aquafunded/](https://propfirmdiscount.com/prop-firm/aquafunded/) |
 
 The newest is **45% off Instant Funding programs** from Funded Trading Plus — 45% off.
 
@@ -27,9 +27,10 @@ The newest is **45% off Instant Funding programs** from Funded Trading Plus — 
 - Firms with a code in the 2026 season: 26
 - Newest deal: 2026-11-02
 - Deals tagged on the site: 170 (90 of them from firms with a verified code, listed below)
-- Event page: https://propfirmdiscount.com/tag/halloween/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Deal dataset: https://propfirmdiscount.com/api/prop-firm-events/
+- GitHub repository: [https://github.com/propfirmdiscounts/halloween-prop-firm-deals](https://github.com/propfirmdiscounts/halloween-prop-firm-deals)
+- Event page: [https://propfirmdiscount.com/tag/halloween/](https://propfirmdiscount.com/tag/halloween/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Deal dataset: [https://propfirmdiscount.com/api/prop-firm-events/](https://propfirmdiscount.com/api/prop-firm-events/)
 
 ## Halloween prop firm deals FAQ
 
@@ -167,9 +168,9 @@ A deal is listed here because an editor tagged it for Halloween on the site, not
 its dates fall near the event. A deal with no event tag appears in its firm's own dataset
 instead: https://github.com/propfirmdiscounts
 
-- Data source: https://propfirmdiscount.com
-- Event page: https://propfirmdiscount.com/tag/halloween/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Event page: [https://propfirmdiscount.com/tag/halloween/](https://propfirmdiscount.com/tag/halloween/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/halloween-prop-firm-deals.json`
 
