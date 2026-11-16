@@ -664,7 +664,7 @@ jobs:
                                 f"{season_year} season are {biggest}.\n\n")
 
           body = (f"# {EVENT_NAME} Prop Firm Deals\n\n"
-                  f"{answer}\n\n"
+                  f"{intro}\n\n"
                   + biggest_sentence
                   + '\n'.join(facts) + "\n\n"
                   + f"Deal history: https://github.com/propfirmdiscounts/{REPO_NAME}\n\n"
