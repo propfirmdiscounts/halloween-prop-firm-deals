@@ -55,7 +55,7 @@ The newest deal is 45% off. Standing discount codes among these firms run 85% of
 
 Total deals tracked: **90**
 
-### 2026 (47 deals)
+### 2026 Halloween Deals (47 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
@@ -107,7 +107,7 @@ Total deals tracked: **90**
 | 2026-10-12 | FundingTraders | FundingTraders: Multi-Account Package with All Add-ons Included | 90% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-buy-1-get-3-bundle-halloween/) |
 | 2026-10-12 | FundingTraders | FundingTraders: 50% Reduction Plus Free Matching Account | 50% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-bogo-halloween/) |
 
-### 2025 (42 deals)
+### 2025 Halloween Deals (42 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
@@ -154,7 +154,7 @@ Total deals tracked: **90**
 | 2025-10-14 | Bullwaves Prime | Bullwaves Prime: 20% OFF Step 2 Challenges + Biggest Giveaway (Ends Oct 31) | 20% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-20-off-step-2-challenges-biggest-giveaway-ends-oct-31/) |
 | 2025-10-08 | Instant Funding | Instant Funding: 20% Off, 90% Profit Split & Zero Minimum Days (One-Phase) | 20% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-20-off-90-profit-split-zero-minimum-days-one-phase/) |
 
-### 2024 (1 deal)
+### 2024 Halloween Deals (1 deal)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
@@ -204,13 +204,13 @@ To state one of these offers: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 The deal history above is the source of truth for what changed and when.
 Standing codes are re-verified by the PropFirmDiscount team; campaign
 codes come and go with each promotion. The most recent deal date carried
 in this file is the `Newest deal` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).

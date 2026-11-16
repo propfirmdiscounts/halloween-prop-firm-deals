@@ -365,7 +365,7 @@ jobs:
 
           for y in years:
               group = per_year[y]
-              readme += f"### {y} ({plural(len(group), 'deal')})\n\n"
+              readme += f"### {y} {EVENT_NAME} Deals ({plural(len(group), 'deal')})\n\n"
               readme += "| Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |\n"
               readme += "|---|---|---|---|---|---|---|\n"
               for r in group:
@@ -422,14 +422,14 @@ jobs:
           promotion, `discount_value` and `date_exp` describe that deal, and
           `post_url` is its page.
 
-          ## Freshness
+          ## Data Freshness & Verification
 
           The deal history above is the source of truth for what changed and when.
           Standing codes are re-verified by the PropFirmDiscount team; campaign
           codes come and go with each promotion. The most recent deal date carried
           in this file is the `Newest deal` value above.
 
-          ## License
+          ## Data License
 
           Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
           """
