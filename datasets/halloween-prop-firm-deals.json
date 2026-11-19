@@ -120,6 +120,26 @@
     "activation_link": "https://propfirmdiscount.com/go/fortraders"
   },
   {
+    "deal_id": 13063,
+    "prop_firm": "SabioTrade",
+    "prop_firm_slug": "sabiotrade",
+    "title": "Halloween Cut Takes 25% Off Account Purchases",
+    "event": "Halloween",
+    "offer_type": "coupon",
+    "scope": [
+      "Account Purchase"
+    ],
+    "discount_value": "25%",
+    "standing_code": "PFD",
+    "standing_discount": "30%",
+    "date_published": "2026-10-30",
+    "date_exp": "Limited time",
+    "post_url": "https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-halloween-25-off-account-purchase/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/sabiotrade/",
+    "last_verified": "2026-10-30",
+    "activation_link": "https://propfirmdiscount.com/go/sabiotrade"
+  },
+  {
     "deal_id": 13062,
     "prop_firm": "PipFarm",
     "prop_firm_slug": "pipfarm",
@@ -270,8 +290,8 @@
       "Challenges, 1 Phase, 2 Phase Flex, 2 Phase Pro, $100K Accounts"
     ],
     "discount_value": "35%",
-    "standing_code": "PFDC",
-    "standing_discount": "50%",
+    "standing_code": "PFD1",
+    "standing_discount": "25%",
     "date_published": "2026-10-27",
     "date_exp": "2026-10-31 23:59 (ended)",
     "post_url": "https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/",
@@ -290,8 +310,8 @@
       "Instant Funded Accounts, Instant, Instant Pro, $100K Accounts"
     ],
     "discount_value": "40%",
-    "standing_code": "PFDC",
-    "standing_discount": "50%",
+    "standing_code": "PFD1",
+    "standing_discount": "25%",
     "date_published": "2026-10-27",
     "date_exp": "2026-10-31 23:59 (ended)",
     "post_url": "https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-instant-funded-40-off/",
@@ -330,8 +350,8 @@
       "All Accounts, 1 Phase, 2 Phase Flex, 2 Phase Pro, Instant, Instant Pro, One-Time Fee"
     ],
     "discount_value": "35%",
-    "standing_code": "PFDC",
-    "standing_discount": "50%",
+    "standing_code": "PFD1",
+    "standing_discount": "25%",
     "date_published": "2026-10-26",
     "date_exp": "2026-10-25 23:59 (ended)",
     "post_url": "https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-graveyard-shift-35-off-all-accounts/",
@@ -670,8 +690,8 @@
       "All Accounts, Challenges, Instant Funded, Any Size, 1 Phase, 2 Phase Flex, 2 Phase Pro, Instant, Instant Pro, 100K"
     ],
     "discount_value": "30%",
-    "standing_code": "PFDC",
-    "standing_discount": "50%",
+    "standing_code": "PFD1",
+    "standing_discount": "25%",
     "date_published": "2026-10-20",
     "date_exp": "2026-10-25 (ended)",
     "post_url": "https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-all-accounts-halloween/",
@@ -750,8 +770,8 @@
       "1 Phase, 2 Phase Flex, 2 Phase Pro, Instant, Instant Pro"
     ],
     "discount_value": "30%",
-    "standing_code": "PFDC",
-    "standing_discount": "50%",
+    "standing_code": "PFD1",
+    "standing_discount": "25%",
     "date_published": "2026-10-17",
     "date_exp": "2026-10-18 (ended)",
     "post_url": "https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-flash-30-off/",
@@ -870,8 +890,8 @@
       "All Accounts, 1 Phase, 2 Phase Flex, 2 Phase Pro, Instant, Instant Pro, $100K Accounts"
     ],
     "discount_value": "25%",
-    "standing_code": "PFDC",
-    "standing_discount": "50%",
+    "standing_code": "PFD1",
+    "standing_discount": "25%",
     "date_published": "2026-10-13",
     "date_exp": "2026-10-18 (ended)",
     "post_url": "https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-haunted-highs-25-off/",
@@ -1080,26 +1100,6 @@
     "activation_link": "https://propfirmdiscount.com/go/forexfundsflow"
   },
   {
-    "deal_id": 9439,
-    "prop_firm": "Upcomers",
-    "prop_firm_slug": "upcomers",
-    "title": "Halloween: 90% OFF + BOGO (Less Than 24 Hours Left) with code PFD",
-    "event": "Halloween",
-    "offer_type": "coupon",
-    "scope": [
-      "On Eligible Accounts"
-    ],
-    "discount_value": "90%",
-    "standing_code": "PFD",
-    "standing_discount": "93%",
-    "date_published": "2025-10-29",
-    "date_exp": "Ended",
-    "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-halloween-90-off-bogo-ends-tonight/",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
-    "last_verified": "2025-10-29",
-    "activation_link": "https://propfirmdiscount.com/go/upcomers"
-  },
-  {
     "deal_id": 9437,
     "prop_firm": "FundedNext",
     "prop_firm_slug": "fundednext",
@@ -1260,6 +1260,26 @@
     "activation_link": "https://propfirmdiscount.com/go/fundednextfutures"
   },
   {
+    "deal_id": 9854,
+    "prop_firm": "SabioTrade",
+    "prop_firm_slug": "sabiotrade",
+    "title": "Halloween Deal: 30% Off Any Account + Free Course",
+    "event": "Halloween",
+    "offer_type": "coupon",
+    "scope": [
+      "Any Single Account."
+    ],
+    "discount_value": "30%",
+    "standing_code": "PFD",
+    "standing_discount": "30%",
+    "date_published": "2025-10-27",
+    "date_exp": "Ended",
+    "post_url": "https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-halloween-30-off-free-course/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/sabiotrade/",
+    "last_verified": "2025-10-27",
+    "activation_link": "https://propfirmdiscount.com/go/sabiotrade"
+  },
+  {
     "deal_id": 9455,
     "prop_firm": "Dominion Funding",
     "prop_firm_slug": "dominion-funding",
@@ -1310,8 +1330,8 @@
       "Sitewide Discount On Every Challenge Format And Account Size"
     ],
     "discount_value": "25%",
-    "standing_code": "PFDC",
-    "standing_discount": "50%",
+    "standing_code": "PFD1",
+    "standing_discount": "25%",
     "date_published": "2025-10-27",
     "date_exp": "Ended",
     "post_url": "https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-early-halloween-25-off-all-challenges-ends-nov-7-2025/",

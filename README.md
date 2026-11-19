@@ -1,6 +1,6 @@
 # Halloween Prop Firm Deals & Discount Codes (2026)
 
-Explore Halloween prop firm deals and discount codes from 34 proprietary trading firms, with 90 historical promotions tracked across multiple seasons. Compare campaign-specific discounts, promotional codes, and other offers, while checking each firm's standing discount code separately. Every listing includes its recorded discount, publication date, expiration information, and a link to the original deal.
+Explore Halloween prop firm deals and discount codes from 34 proprietary trading firms, with 91 historical promotions tracked across multiple seasons. Compare campaign-specific discounts, promotional codes, and other offers, while checking each firm's standing discount code separately. Every listing includes its recorded discount, publication date, expiration information, and a link to the original deal.
 
 As of November 2026, the biggest verified Halloween discount codes in the 2026 season are 90% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funded Hero, 70% OFF with code PFD at FundingTraders, 60% OFF with code PFD at Doji Funding, and 25% OFF with code PFD at Blue Guardian.
 
@@ -14,21 +14,21 @@ As of November 2026, the biggest verified Halloween discount codes in the 2026 s
 | 4 | Atlas Funded | PFD | 50% | Halloween cashback deal cuts 45% off evaluations | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/) | Limited time | [Atlas Funded Page](https://propfirmdiscount.com/prop-firm/atlas-funded/) |
 | 5 | Direct Funded Trader | PFD | 50% | 50% off Fast Funding and Evaluation, 40% off Instant | [View Deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/) | Limited time | [Direct Funded Trader Page](https://propfirmdiscount.com/prop-firm/direct-funded-trader/) |
 | 6 | QT Funded | PFDDEAL | 50% | 50% Off Halloween Entry With Second Account Free | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-free-account/) | 2026-11-01 00:00 (ended) | [QT Funded Page](https://propfirmdiscount.com/prop-firm/qt-funded/) |
-| 7 | TX3 Funding | PFDC | 50% | 35% off challenge accounts for Halloween week | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/) | 2026-10-31 23:59 (ended) | [TX3 Funding Page](https://propfirmdiscount.com/prop-firm/tx3-funding/) |
-| 8 | Topstep | TRANNGUYEN | 50% | Halloween Sale: $65 and $199 Flat-Fee $3K Challenges | [View Deal](https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/) | Ended | [Topstep Page](https://propfirmdiscount.com/prop-firm/topstep/) |
-| 9 | Doji Funding | PFD | 60% | 60% Off All Challenges for Halloween with code PFD | [View Deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-halloween-60-off-every-challenge/) | 2026-10-31 (ended) | [Doji Funding Page](https://propfirmdiscount.com/prop-firm/doji-funding/) |
-| 10 | Phoenix Trader Funding | PFD | 40% | 40% Off Daily Seed Challenge Pricing | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/) | 2026-10-31 (ended) | [Phoenix Trader Funding Page](https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/) |
+| 7 | Topstep | TRANNGUYEN | 50% | Halloween Sale: $65 and $199 Flat-Fee $3K Challenges | [View Deal](https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/) | Ended | [Topstep Page](https://propfirmdiscount.com/prop-firm/topstep/) |
+| 8 | Doji Funding | PFD | 60% | 60% Off All Challenges for Halloween with code PFD | [View Deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-halloween-60-off-every-challenge/) | 2026-10-31 (ended) | [Doji Funding Page](https://propfirmdiscount.com/prop-firm/doji-funding/) |
+| 9 | Phoenix Trader Funding | PFD | 40% | 40% Off Daily Seed Challenge Pricing | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/) | 2026-10-31 (ended) | [Phoenix Trader Funding Page](https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/) |
+| 10 | AquaFunded | PFD | 35% | 35% off all account sizes across CFD and Futures | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/) | Limited time | [AquaFunded Page](https://propfirmdiscount.com/prop-firm/aquafunded/) |
 
 The latest recorded Halloween-tagged promotion is Funded Trading Plus offering 45% off Instant Funding programs, published on November 2, 2026. The offer has since ended.
 
 - Event: Halloween
-- Halloween deals in this dataset: 90
+- Halloween deals in this dataset: 91
 - Firms represented: 34
-- Deals published in 2026: 47
-- Firms with a code in the 2026 season: 26
+- Deals published in 2026: 48
+- Firms with a code in the 2026 season: 27
 - Newest deal: 2026-11-02
 - GitHub repository: [Halloween Deals Repository](https://github.com/propfirmdiscounts/halloween-prop-firm-deals)
-- All Halloween-tagged deals on the main site: 170 (90 of them from firms with a verified code, listed below)
+- All Halloween-tagged deals on the main site: 170 (91 of them from firms with a verified code, listed below)
 - Event page: [Halloween Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/halloween/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Deal dataset: [Prop Firm Events API Record](https://propfirmdiscount.com/api/prop-firm-events/)
@@ -53,9 +53,9 @@ The newest deal is 45% off. Standing discount codes among these firms run 85% of
 
 ## Halloween Prop Firm Deal History
 
-Total deals tracked: **90**
+Total deals tracked: **91**
 
-### 2026 Halloween Deals (47 deals)
+### 2026 Halloween Deals (48 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
@@ -65,6 +65,7 @@ Total deals tracked: **90**
 | 2026-10-31 | Finotive Funding | Finotive Funding: 65% off every account, every type and size | 65% off | 2026-11-02 17:59 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/) |
 | 2026-10-30 | FundingTraders | FundingTraders: Halloween 70% off every account entry fee with code PFD | 70% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-halloween-70-off-all-accounts/) |
 | 2026-10-30 | For Traders | For Traders: Halloween $6K Forex Fast challenge for only $9.99 | 79.6% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/) |
+| 2026-10-30 | SabioTrade | SabioTrade: Halloween Cut Takes 25% Off Account Purchases | 25% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-halloween-25-off-account-purchase/) |
 | 2026-10-29 | PipFarm | PipFarm: Challenges At 60% Off Plus A Free Halloween Power-Up | 60% off | 2026-11-03 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/) |
 | 2026-10-29 | WeMasterTrade | WeMasterTrade: Halloween Cut: 36% Off Every Package | 36% off | 2026-10-31 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/) |
 | 2026-10-28 | Finotive Futures | Finotive Futures: 50% off Instant, 40% off One Step for Halloween | 50% off | 2026-10-31 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-halloween-50-off-instant-40-off-one-step/) |
@@ -118,7 +119,6 @@ Total deals tracked: **90**
 | 2025-10-30 | FundedNext | FundedNext: 25% OFF for New Users + No Consistency on Legacy | 25% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-futures-halloween-25-off-new-15-off-existing/) |
 | 2025-10-30 | Finotive Funding | Finotive Funding: Deal (no coupon required): 35% OFF Sitewide, Ends Sunday 23:00 CET | 35% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-35-off-sitewide-deal-ends-sunday-2300-cet/) |
 | 2025-10-29 | Forex Funds Flow | Forex Funds Flow: Halloween: 20% OFF All Plans + $39 Instant Account Entry | 20% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-halloween-20-off-instant-account-39/) |
-| 2025-10-29 | Upcomers | Upcomers: Halloween: 90% OFF + BOGO (Less Than 24 Hours Left) with code PFD | 90% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-halloween-90-off-bogo-ends-tonight/) |
 | 2025-10-29 | FundedNext | FundedNext: Halloween BOGO Treat: Buy One Stellar Plan, Get One Free (72 Hours, Ends Oct 31, 8:59 PM GMT+3) | Buy 1 Get 1 | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-bogo-72h-ends-oct-31-2025/) |
 | 2025-10-28 | Atlas Funded | Atlas Funded: 40% Off Challenges for Halloween - Promo Code | 40% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-halloween/) |
 | 2025-10-28 | Dominion Funding | Dominion Funding: Halloween: 15% OFF Funding on $7.5K & $100K Accounts | 15% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-halloween-15-off-funding-on-7-5k-100k-accounts/) |
@@ -127,6 +127,7 @@ Total deals tracked: **90**
 | 2025-10-28 | Finotive Funding | Finotive Funding: Halloween Deal (no coupon required): 30% OFF Site-Wide on All Accounts (Ends Nov 2, 23:00 CET) | 30% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-halloween-deal-30-off-sitewide-ends-nov-2/) |
 | 2025-10-27 | FundedNext Futures | FundedNext Futures: Halloween Promo: 15% Off (Existing Users) + No Consistency Rule | 15% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-halloween-existing-users-15-off/) |
 | 2025-10-27 | FundedNext Futures | FundedNext Futures: Halloween Deal: 25% Off (New Users) + No Consistency Rule | 25% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-halloween-new-users-25-off/) |
+| 2025-10-27 | SabioTrade | SabioTrade: Halloween Deal: 30% Off Any Account + Free Course | 30% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-halloween-30-off-free-course/) |
 | 2025-10-27 | Dominion Funding | Dominion Funding: Halloween Deal (no coupon required): 20% OFF on All Challenges, Oct 25–31 | 20% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-halloween-20-off-all-challenges-oct-25-31/) |
 | 2025-10-27 | For Traders | For Traders: Halloween Sale: Up to 30% OFF on Challenges & Master Accounts | 30% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-up-to-30-off-challenges-master-accounts/) |
 | 2025-10-27 | TX3 Funding | TX3 Funding: Early Halloween: 25% OFF All Challenge Types & Sizes (Ends Nov 7, 2025) | 25% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-early-halloween-25-off-all-challenges-ends-nov-7-2025/) |
