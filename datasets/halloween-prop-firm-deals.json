@@ -733,7 +733,7 @@
     "standing_code": "PFD",
     "standing_discount": "50%",
     "date_published": "2026-10-19",
-    "date_exp": "Limited time",
+    "date_exp": "Ended",
     "post_url": "https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-50k-ultimate-bundle-bogo/",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/fundingtraders/",
     "last_verified": "2026-10-19",
@@ -753,7 +753,7 @@
     "standing_code": "PFD",
     "standing_discount": "50%",
     "date_published": "2026-10-19",
-    "date_exp": "Limited time",
+    "date_exp": "Ended",
     "post_url": "https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching/",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/fundingtraders/",
     "last_verified": "2026-10-19",
@@ -978,26 +978,6 @@
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/pipfarm/",
     "last_verified": "2025-10-31",
     "activation_link": "https://propfirmdiscount.com/go/pipfarm"
-  },
-  {
-    "deal_id": 9589,
-    "prop_firm": "Alpha Futures",
-    "prop_firm_slug": "alpha-futures",
-    "title": "Halloween — 25% OFF Standard, Advanced & Zero Accounts (48 Hours, Ends Oct 31)",
-    "event": "Halloween",
-    "offer_type": "coupon",
-    "scope": [
-      "Across Standard, Advanced & Zero"
-    ],
-    "discount_value": "25%",
-    "standing_code": "Tran009503",
-    "standing_discount": "15%",
-    "date_published": "2025-10-30",
-    "date_exp": "Ended",
-    "post_url": "https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-halloween-25-off-standard-advanced-zero-accounts-ends-oct-31/",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/alpha-futures/",
-    "last_verified": "2025-10-30",
-    "activation_link": "https://propfirmdiscount.com/go/alphafutures"
   },
   {
     "deal_id": 9461,
