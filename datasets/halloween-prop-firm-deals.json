@@ -593,7 +593,7 @@
     "standing_code": "PFD",
     "standing_discount": "2%",
     "date_published": "2026-10-22",
-    "date_exp": "Limited time",
+    "date_exp": "Ended",
     "post_url": "https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-halloween-bogo/",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/funding-your-trades/",
     "last_verified": "2026-10-22",
@@ -798,26 +798,6 @@
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/atlas-funded/",
     "last_verified": "2026-10-15",
     "activation_link": "https://propfirmdiscount.com/go/atlasfunded"
-  },
-  {
-    "deal_id": 12912,
-    "prop_firm": "Topstep",
-    "prop_firm_slug": "topstep",
-    "title": "Halloween Sale: $65 and $199 Flat-Fee $3K Challenges",
-    "event": "Halloween",
-    "offer_type": "deal",
-    "scope": [
-      "3K Challenge, Undead Account, Slasher Account, Halloween"
-    ],
-    "discount_value": "Only $65",
-    "standing_code": "TRANNGUYEN",
-    "standing_discount": "50%",
-    "date_published": "2026-10-15",
-    "date_exp": "Ended",
-    "post_url": "https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/topstep/",
-    "last_verified": "2026-10-15",
-    "activation_link": "https://propfirmdiscount.com/go/topstep"
   },
   {
     "deal_id": 12911,
